@@ -1,0 +1,6 @@
+@Irrigation_HostAddress = http://localhost:5162
+
+GET {{Irrigation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
